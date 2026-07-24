@@ -58,13 +58,13 @@ function HomepageContent() {
                 </div>
                 
                 <div className="col col--3">
-                  <Heading as="h3">Bharath Hegde/Heading>
+                  <Heading as="h3">Bharath Hegde</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: bharathh@andrew.cmu.edu</p>
                 </div>
 
                 <div className="col col--3">
-                  <Heading as="h3">Kacper Gasior/Heading>
+                  <Heading as="h3">Kacper Gasior</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: kgasior@andrew.cmu.edu</p>
                 </div>                
