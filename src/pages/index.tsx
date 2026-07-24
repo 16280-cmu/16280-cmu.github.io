@@ -16,7 +16,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           <strong>Intelligent Robot Systems</strong>
         </Heading>
-        <p className="hero__subtitle">16-280 Carnegie Mellon University, Fall 2025</p>
+        <p className="hero__subtitle">16-280 Carnegie Mellon University, Fall 2026</p>
       </div>
     </header>
   );
@@ -48,7 +48,7 @@ function HomepageContent() {
                   <p>Instructor</p>
                   <p>Robotics Institute</p>
                   <p>Email: asilwal@andrew.cmu.edu</p>
-                  <p>Office: LL050 Collaborative Innovation Center</p>
+                  <p>Office: NSH 2100D</p>
                 </div>
 
                 <div className="col col--3">
