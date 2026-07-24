@@ -51,25 +51,25 @@ function HomepageContent() {
                   <p>Office: NSH 2100D</p>
                 </div>
 
-                <div className="col col--3">
+                <div className="col col--4">
                   <Heading as="h3">Aaron Ding</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: aarondin@andrew.cmu.edu</p>
                 </div>
                 
-                <div className="col col--3">
+                <div className="col col--4">
                   <Heading as="h3">Bharath Hegde</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: bharathh@andrew.cmu.edu</p>
                 </div>
 
-                <div className="col col--3">
+                <div className="col col--4">
                   <Heading as="h3">Kacper Gasior</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: kgasior@andrew.cmu.edu</p>
                 </div>                
 
-                <div className="col col--3">
+                <div className="col col--4">
                   <Heading as="h3">Sachet Korada</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: skorada@andrew.cmu.edu</p>
