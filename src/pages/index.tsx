@@ -52,6 +52,31 @@ function HomepageContent() {
                 </div>
 
                 <div className="col col--3">
+                  <Heading as="h3">Aaron Ding</Heading>
+                  <p>Teaching Assistant</p>
+                  <p>Email: aarondin@andrew.cmu.edu</p>
+                
+                </div>
+                <div className="col col--3">
+                  <Heading as="h3">Bharath Hegde/Heading>
+                  <p>Teaching Assistant</p>
+                  <p>Email: bharathh@andrew.cmu.edu</p>
+                </div>
+
+                <div className="col col--3">
+                  <Heading as="h3">Kacper Gasior/Heading>
+                  <p>Teaching Assistant</p>
+                  <p>Email: kgasior@andrew.cmu.edu</p>
+                </div>                
+
+                <div className="col col--3">
+                  <Heading as="h3">Sachet Korada</Heading>
+                  <p>Teaching Assistant</p>
+                  <p>Email: skorada@andrew.cmu.edu</p>
+                </div>
+                
+                /*
+                <div className="col col--3">
                   <Heading as="h3">Julius Arolovitch</Heading>
                   <p>Head Teaching Assistant</p>
                   <p>Email: jarolovi@andrew.cmu.edu</p>
@@ -68,6 +93,7 @@ function HomepageContent() {
                   <p>Teaching Assistant</p>
                   <p>Email: ajdietri@andrew.cmu.edu</p>
                 </div>
+                */
               </div>
               
             </div>
